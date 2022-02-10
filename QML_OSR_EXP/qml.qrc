@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML_RSR_EXP.qml</file>
+    </qresource>
+</RCC>
